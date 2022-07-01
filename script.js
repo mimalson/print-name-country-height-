@@ -1,6 +1,6 @@
 
-var name = ('My name is Muhammed Amina');
-var height = (' I'm 5.7ft tall');
-var country = (' I'm from Nigeria');
+var name = 'Muhammed Amina'
+var height = '5.7ft tall'
+var country = 'Nigeria'
 
-alert(name)
+alert('My name is' name + "\n" + 'I'm' height + "\n"+ country);
