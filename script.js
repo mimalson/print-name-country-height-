@@ -1,8 +1,8 @@
 
-const name = 'Muhammed Amina'
-const height = '5.7ft tall'
-const country = 'Nigeria'
+const name = 'My name is Muhammed Amina'
+const height = 'I'm 5.7ft tall'
+const country = 'I'm from Nigeria'
 
-document.write("My name is" " " name)
-document.write("I'm" " " height)
-document.write("I'm from" " " country)
+document.write(name "<br>")
+document.write(height)
+document.write(country)
