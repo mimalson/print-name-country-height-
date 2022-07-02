@@ -6,3 +6,8 @@ const country = "I'm from Nigeria"
 document.write(name)
 document.write(height)
 document.write(country)
+
+let name = "Nathan";
+
+document.write(name); 
+
